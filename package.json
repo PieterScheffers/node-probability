@@ -1,0 +1,15 @@
+{
+  "name": "probability",
+  "version": "0.1.0",
+  "description": "Probability calculation functions",
+  "main": "probability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "probability",
+    "binomial"
+  ],
+  "author": "pieterscheffers <npm@pieterscheffers.nl> (https://pieterscheffers.nl)",
+  "license": "ISC"
+}
