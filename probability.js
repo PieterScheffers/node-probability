@@ -302,7 +302,7 @@ exports.sum = sum;
 exports.sort = sort;
 exports.empty = empty;
 
-// occurences
+// occurrences
 exports.occurrences = occurrences;
 exports.maxOccurrence = maxOccurrence;
 exports.minOccurence = minOccurence;
@@ -310,8 +310,10 @@ exports.minOccurence = minOccurence;
 // Statistical
 exports.average = average;
 exports.mean = average;
+exports.median = median;
+exports.mode = mode;
 exports.midrange = midrange;
-exports.range = range;
+exports.range = midrange;
 
 // Probability
 exports.factorial = factorial;
