@@ -10,6 +10,15 @@
     "probability",
     "binomial"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieterScheffers/node-probability.git"
+  },
   "author": "pieterscheffers <npm@pieterscheffers.nl> (https://pieterscheffers.nl)",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PieterScheffers/node-probability/issues"
+  },
+  "homepage": "https://github.com/PieterScheffers/node-probability#readme"
+
 }
